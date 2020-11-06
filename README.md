@@ -19,6 +19,7 @@ pip install requests
 pip install pandas
 pip install lxml
 ```
+Asimismo, es necesario introducir en la misma carpeta que el proyecto el programa [geckodriver ]( https://github.com/mozilla/geckodriver) en su versión compatible con su dispositivo y tener Mozilla Firefox instalado.
 
 ## Uso
 
